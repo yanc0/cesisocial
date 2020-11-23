@@ -98,12 +98,3 @@ docker build --tag votrelogin/cesisocial:v0.1
 # Je pousse l'application sur le docker hub
 docker push votrelogin/cesisocial:v0.1
 ```
-
-# Exercice 4
-
-* Deployer l'application
-
-```bash
-$ ./deploy v0.1
-
-```
