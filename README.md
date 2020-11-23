@@ -94,7 +94,7 @@ git commit -m "ajout d'un fichier Dockerfile"
 # Je m'authentifie auprès de docker hub
 docker login
 # Je rebuilde l'application pour tagger l'image avec mon compte docker hub
-docker build --tag votrelogin/cesisocial:v0.1
+docker build --tag votrelogin/cesisocial:v0.1 .
 # Je pousse l'application sur le docker hub
 docker push votrelogin/cesisocial:v0.1
 ```
