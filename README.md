@@ -108,7 +108,6 @@ docker push votrelogin/cesisocial:v0.1.0
 * Modifier une partie visible de l'application pour y ajouter votre touche personnelle. Par exemple:
   * Fichier HTML
   * Fichier CSS
-
 * Reconstruire l'application en version `v0.2.0` et la pousser sur le docker hub.
 * Demander à un collègue de déployer votre version sur sa machine. L'objectif étant qu'il détermine ce que vous avez modifié sur votre version.
 
